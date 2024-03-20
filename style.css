@@ -17,6 +17,15 @@ header {
 	padding: 30px;
 }
 
+li {
+	color: #FFF;
+	font-size: 16px;
+	font-weight: 300;
+	text-transform: uppercase;
+	display: inline-block;
+	width: 80px;
+}
+
 /* 
 h1 {
 	color: #004E89;
