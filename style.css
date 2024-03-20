@@ -12,6 +12,8 @@ body {
 
 header {
 	background-color: cadetblue;
+	position: fixed;
+	width: 100%;
 }
 
 /* 
