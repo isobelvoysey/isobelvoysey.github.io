@@ -25,6 +25,7 @@ header li {
 	text-transform: uppercase;
 	display: inline-block;
 	width: 120px;
+	text-align: center;
 }
 
 header li:hover {
