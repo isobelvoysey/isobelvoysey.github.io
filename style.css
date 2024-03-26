@@ -18,6 +18,10 @@ header {
 	/* padding: 20px 10px; */
 }
 
+header nav {
+	text-align: right;
+}
+
 header li {
 	color: #FFF;
 	font-size: 16px;
