@@ -16,9 +16,8 @@ header {
 	width: 100%; */
 	overflow: hidden;
 	/* padding: 20px 10px; */
+	text-align: right;
 }
-
-/* Want to get nav bar aligned right */
 
 header li {
 	color: #FFF;
@@ -43,7 +42,7 @@ section {
 h1 {
 	color: midnightblue;
 	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
+	font-weight: 600;
 	font-size: 24px;
 }
 
