@@ -34,6 +34,14 @@ header li:hover {
 	color: #DBE9EE;
   }
 
+
+h1 {
+	color: midnightblue;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 50px;
+	padding: 10px
+}
 /* 
 h1 {
 	color: #004E89;
