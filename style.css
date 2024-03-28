@@ -35,14 +35,14 @@ header li a {
 	text-decoration: none;
 }
 
+header li a:visited {
+	color: #FFF;
+}
+
 header li a:hover {
 	/* when you hover over list items */
 	color: #581845;
   }
-
-header li a:visited {
-	color: #FFF;
-}
 
 section {
 	padding: 50px;
@@ -65,7 +65,7 @@ h2 {
 p {
 	color: black;
 	font-family: 'Roboto', sans-serif;
-	font-weight: 150;
+	font-weight: 200;
 	font-size: 16px;
 }
 
