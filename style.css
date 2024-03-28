@@ -28,15 +28,19 @@ header li {
 	width: 120px;
 	/* Make width auto with some padding */
 	text-align: center;
+}
+
+header li a {
+	color: #FFF;
 	text-decoration: none;
 }
 
-header li:hover {
+header li a:hover {
 	/* when you hover over list items */
 	color: #DBE9EE;
   }
 
-header li:visited {
+header li a:visited {
 	color: #FFF;
 }
 
