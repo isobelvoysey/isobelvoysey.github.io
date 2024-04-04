@@ -11,7 +11,7 @@ body {
 }
 
 header {
-	background-color: cadetblue;
+	background-color: steelblue;
 	/* position: fixed;
 	width: 100%; */
 	overflow: hidden;
@@ -41,7 +41,7 @@ header li a:visited {
 
 header li a:hover {
 	/* when you hover over list items */
-	color: #581845;
+	color: #386890;
   }
 
 section {
@@ -49,14 +49,14 @@ section {
 }
 
 h1 {
-	color: midnightblue;
+	color: #1D3549;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 600;
 	font-size: 24px;
 }
 
 h2 {
-	color: midnightblue;
+	color: #1D3549;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 200;
 	font-size: 20px;
@@ -65,7 +65,7 @@ h2 {
 p {
 	color: black;
 	font-family: 'Roboto', sans-serif;
-	font-weight: 200;
+	font-weight: 250;
 	font-size: 16px;
 }
 
