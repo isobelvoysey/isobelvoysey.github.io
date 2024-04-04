@@ -69,9 +69,6 @@ p {
 	font-size: 16px;
 }
 
-/* TODO: Edit hyperlink post-click colour (stay same) with no underline */
-/* a:link {
-	color: #FFF;
+#headshot {
+	float: right;
 }
-
-a:visited */
