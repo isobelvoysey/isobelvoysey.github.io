@@ -78,7 +78,10 @@ p {
 
 /* Format table properly. */
 table .news-table {
-	color: blue;
+	color: black;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
 }
 table .news-table th {
 	width: auto;
