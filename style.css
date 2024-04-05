@@ -75,3 +75,8 @@ p {
 	height: 500px;
 	padding: 30px;
 }
+
+/* Format table properly. */
+table .news-table {
+	color: blue;
+}
