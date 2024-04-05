@@ -80,3 +80,6 @@ p {
 table .news-table {
 	color: blue;
 }
+table .news-table th {
+	width: 10%;
+}
