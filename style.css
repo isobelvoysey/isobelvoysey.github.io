@@ -10,6 +10,19 @@ body {
 	font-weight: 100;
 }
 
+a {
+	color: steelblue;
+	text-decoration: none;
+}
+
+a:visited {
+	color: steelblue;
+}
+
+a:hover {
+	text-decoration: wavy;
+}
+
 header {
 	background-color: steelblue;
 	position: sticky;
@@ -67,19 +80,6 @@ p {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 	font-size: 16px;
-}
-
-a {
-	color: steelblue;
-	text-decoration: none;
-}
-
-a:visited {
-	color: steelblue;
-}
-
-a:hover {
-	text-decoration: wavy;
 }
 
 #headshot {
