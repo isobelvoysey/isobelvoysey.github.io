@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-accepted-to-mit-media-lab-aha-workshop",
+          title: 'Accepted to MIT Media Lab AHA Workshop.',
+          description: "",
+          section: "News",},{id: "news-awarded-an-mpls-pcer-fellowship-to-pilot-a-youth-advisory-group",
+          title: 'Awarded an MPLS PCER Fellowship to pilot a youth advisory group.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
