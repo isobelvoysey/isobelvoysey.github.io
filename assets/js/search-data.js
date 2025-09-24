@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
@@ -391,7 +398,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-accepted-to-mit-media-lab-aha-workshop",
+            },},{id: "news-awarded-my-phd-from-the-university-of-edinburgh",
+          title: 'Awarded my PhD from the University of Edinburgh',
+          description: "",
+          section: "News",},{id: "news-accepted-to-mit-media-lab-aha-workshop",
           title: 'Accepted to MIT Media Lab AHA Workshop',
           description: "",
           section: "News",handler: () => {
