@@ -2,7 +2,7 @@
 layout: page
 title: The Brilliant Club
 description: University-style tutorials on human-robot interaction
-img: assets/img/12.jpg
+img: assets/img/tbc-logo.jpg
 importance: 1
 category: outreach
 related_publications: false

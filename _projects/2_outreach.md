@@ -2,7 +2,7 @@
 layout: page
 title: Informatics Circle
 description: Computer science activities for children
-img: assets/img/12.jpg
+img: assets/img/uoe-crest.png
 importance: 3
 category: outreach
 related_publications: false
