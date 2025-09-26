@@ -416,6 +416,11 @@ ninja.data = [{
           description: "University-style tutorials on human-robot interaction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_outreach/";
+            },},{id: "projects-gentle-tidy",
+          title: 'Gentle Tidy',
+          description: "watchOS app for tidying",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_personal/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
