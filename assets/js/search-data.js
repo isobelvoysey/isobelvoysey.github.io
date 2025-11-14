@@ -413,7 +413,7 @@ ninja.data = [{
               window.location.href = "/news/announcement_1/";
             },},{id: "projects-the-brilliant-club",
           title: 'The Brilliant Club',
-          description: "University-style tutorials on human-robot interaction",
+          description: "University-style tutorials on human-computer interaction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_outreach/";
             },},{id: "projects-gentle-tidy",
@@ -426,6 +426,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-science-together",
+          title: 'Science Together',
+          description: "Collaborative science project with charity",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_research/";
             },},{id: "projects-informatics-circle",
           title: 'Informatics Circle',
           description: "Computer science activities for children",
