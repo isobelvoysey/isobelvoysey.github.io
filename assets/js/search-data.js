@@ -441,8 +441,8 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-chaild-project",
-          title: 'CHAILD project',
+            },},{id: "projects-chaild",
+          title: 'CHAILD',
           description: "Children&#39;s agency and AI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_research/";
