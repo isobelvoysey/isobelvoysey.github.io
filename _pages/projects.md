@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A selection of my research, outreach, and personal projects
+description: a selection of my research, outreach, and personal projects
 nav: true
 nav_order: 3
 display_categories: [research, outreach, personal]

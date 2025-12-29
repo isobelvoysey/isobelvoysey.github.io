@@ -172,6 +172,8 @@ ul.task-list input[type="checkbox"] {
   .card-img {
     width: 100%;
     padding-top: 1.25rem;
+    padding-left: 1rem; /* Added left padding */
+    padding-right: 1rem; /* Added right padding */
   }
 
   .card-title {
