@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CHAILD project
+title: CHAILD
 description: Children's agency and AI
 img: assets/img/chaild-logo.png
 importance: 1
