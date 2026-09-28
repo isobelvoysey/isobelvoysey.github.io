@@ -411,61 +411,26 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "projects-the-brilliant-club",
-          title: 'The Brilliant Club',
-          description: "University-style tutorials on human-computer interaction",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_outreach/";
-            },},{id: "projects-gentle-tidy",
-          title: 'Gentle Tidy',
-          description: "watchOS app for tidying",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_personal/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-science-together",
-          title: 'Science Together',
-          description: "Collaborative science project with charity",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_research/";
-            },},{id: "projects-informatics-circle",
-          title: 'Informatics Circle',
-          description: "Computer science activities for children",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_outreach/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-chaild",
-          title: 'CHAILD',
-          description: "Children&#39;s agency and AI",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_research/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-algorithmic-mirror",
-          title: 'Algorithmic Mirror',
-          description: "Visualising social media for teenagers",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_research/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-the-in-between",
-          title: 'The In-Between',
-          description: "Supporting parent-child connection",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_research/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
@@ -491,6 +456,46 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-the-brilliant-club",
+          title: 'The Brilliant Club',
+          description: "University-style tutorials on human-computer interaction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/outreach_brilliant-club/";
+            },},{id: "projects-informatics-circle",
+          title: 'Informatics Circle',
+          description: "Computer science activities for children",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/outreach_informatics-circle/";
+            },},{id: "projects-youth-advisory-group",
+          title: 'Youth advisory group',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/outreach_yag/";
+            },},{id: "projects-gentle-tidy",
+          title: 'Gentle Tidy',
+          description: "watchOS app for tidying",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/personal_gentle-tidy/";
+            },},{id: "projects-algorithmic-mirror",
+          title: 'Algorithmic Mirror',
+          description: "Visualising social media for teenagers",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research_algorithmic-mirror/";
+            },},{id: "projects-chaild",
+          title: 'CHAILD',
+          description: "Children&#39;s agency and AI",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research_chaild/";
+            },},{id: "projects-the-in-between",
+          title: 'The In-Between',
+          description: "Supporting parent-child connection",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research_in-between/";
+            },},{id: "projects-science-together",
+          title: 'Science Together',
+          description: "Collaborative science project with charity",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research_science-together/";
             },},{
         id: 'social-email',
         title: 'email',
